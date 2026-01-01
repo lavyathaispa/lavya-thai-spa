@@ -1,2 +1,14 @@
-# lavya-thai-spa
-Lavya Thai Spa is a premium wellness and massage service brand offering authentic Thai massage, body relaxation therapies, and holistic spa treatments. Visit https://lavyathaispa.com
+# Lavya Thai Spa
+
+Lavya Thai Spa offers professional Thai massage, body massage, and wellness therapies designed to relax the body and mind.
+
+🌐 Website: https://lavyathaispa.com  
+📍 Location: Gomti Nagar, Lucknow  
+📞 Contact: +91 97941 66648
+
+We specialize in:
+- Thai Massage
+- Body Spa
+- Relaxation Therapy
+- Wellness Treatments
+
